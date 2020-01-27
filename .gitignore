@@ -1,0 +1,6 @@
+.pytest*
+.scanner*
+*_env
+.coverage
+.DS_STORE
+*.pyc
